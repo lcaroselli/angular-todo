@@ -1,0 +1,14 @@
+* {
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.todo-wrapper {
+  border: 5px solid lightblue;
+  margin: 20px auto;
+  padding: 20px;
+  width: 80%;
+}
